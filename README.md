@@ -1,5 +1,5 @@
 # docs
-Welcome to docs! Our public repository to manage all the public documentation for TuristeApp.
+Welcome to docs! Our public repository to manage all the documentation for TuristeApp.
 
 Here we are hosting:
 - The Wiki Site (user guide)
